@@ -1,4 +1,4 @@
-#Dev
+# Dev
 
-##Education 
+### Education 
 Systems Analysis and Software Development
