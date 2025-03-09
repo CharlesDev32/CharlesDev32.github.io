@@ -1,6 +1,4 @@
-# Hey, I'm Charles Machado! 👋
-
-![Banner](https://via.placeholder.com/800x200.png?text=Charles+Machado+-+Developer)  
+👩🏻‍💻 Charles Machado  
 *Systems Analyst & Developer*
 
 ---
