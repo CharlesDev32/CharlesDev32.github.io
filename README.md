@@ -11,7 +11,7 @@ I'm a Brazilian developer who loves building systems that solve real-world probl
 - 🌍 Location: Brazil  
 - 💻 Role: Systems Developer  
 - 📫 Email: [charles_182@icloud.com](mailto:charles.machado@email.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/charlesmachado) | [CharlesCode.github.io](https://CharlesCode.github.io)
+- 🔗 [LinkedIn](https://linkedin.com/in/charlesmachado) | [CharlesDev32.github.io](https://CharlesDev32.github.io)
 
 ---
 
