@@ -23,13 +23,6 @@ I'm a Brazilian developer who loves building systems that solve real-world probl
 - **Languages**: Python, Java, JavaScript  
 - **Tools**: Git, VS Code, Docker  
 - **Other**: Systems Analysis, Databases, Agile Methodologies  
-
----
-
-### GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlesCode&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesCode&layout=compact&theme=radical)
-
 ---
 
 
