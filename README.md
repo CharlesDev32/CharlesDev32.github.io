@@ -6,9 +6,7 @@
 ### About Me 🚀
 Brazilian backend developer specialized in building scalable and production-ready systems using JavaScript and TypeScript.
 
-I design REST APIs, real-time architectures, and cloud-based applications with focus on clean architecture, performance, and security.
-
-Currently building Firmo90, a real-time platform powered by Node.js, PostgreSQL, Redis, and AWS infrastructure.
+I design REST APIs, real-time architectures, and cloud-based applications with a strong focus on clean architecture, performance, and security.
 
 - 🌍 Location: Brazil  
 - 💻 Role: Backend Developer  
@@ -65,4 +63,4 @@ Currently building Firmo90, a real-time platform powered by Node.js, PostgreSQL,
 
 ---
 
-*Building production-ready systems with scalability and performance in mind.*
+*Building scalable backend systems with performance and reliability in mind.*
