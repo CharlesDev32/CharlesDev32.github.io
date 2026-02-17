@@ -1,27 +1,68 @@
-👩🏻‍💻 Charles Machado  
-*Systems Analyst & Developer*
+👨🏻‍💻 **Charles Machado**  
+**JavaScript / TypeScript Backend Developer | Systems Analyst**
 
 ---
 
 ### About Me 🚀
-I'm a Brazilian developer who loves building systems that solve real-world problems. 
+Brazilian backend developer specialized in building scalable and production-ready systems using JavaScript and TypeScript.
+
+I design REST APIs, real-time architectures, and cloud-based applications with focus on clean architecture, performance, and security.
+
+Currently building Firmo90, a real-time platform powered by Node.js, PostgreSQL, Redis, and AWS infrastructure.
 
 - 🌍 Location: Brazil  
-- 💻 Role: Systems Developer  
-- 📫 Email: [charles_182@icloud.com](mailto:charles.machado@email.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/charlesmachado) | [CharlesDev32.github.io](https://CharlesDev32.github.io)
+- 💻 Role: Backend Developer  
+- 📫 Email: charles_182@icloud.com  
+- 🔗 LinkedIn: linkedin.com/in/charlesmachado  
+- 🔗 Portfolio: CharlesDev32.github.io  
 
 ---
 
-### Skills ⚙️
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+## Tech Stack ⚙️
 
-- **Languages**: Python, Java, JavaScript  
-- **Tools**: Git, VS Code, Docker  
-- **Other**: Systems Analysis, Databases, Agile Methodologies  
+### Backend (JavaScript / TypeScript)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+### Databases & Caching
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Infrastructure & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
 ---
 
+## Technical Focus 🧠
 
-*Thanks for stopping by! Let’s build something awesome together!* 😄
+- Scalable REST API development  
+- Strong typing with TypeScript  
+- Real-time communication (WebSockets)  
+- PostgreSQL data modeling  
+- Redis caching and rate limiting  
+- Dockerized environments  
+- Cloud deployment (AWS EC2)  
+- CI/CD automation  
+
+---
+
+## Core Strengths
+
+- JavaScript / TypeScript architecture  
+- Clean and modular backend design  
+- Production deployment experience  
+- Real-time system implementation  
+- Performance and scalability mindset  
+
+---
+
+*Building production-ready systems with scalability and performance in mind.*
