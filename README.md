@@ -1,66 +1,52 @@
-👨🏻‍💻 **Charles Machado**  
-**JavaScript / TypeScript Backend Developer | Systems Analyst**
+# Charles Machado
+
+**Full-Stack Developer** — TypeScript · Node.js · Next.js · React Native · AWS
+Manaus, Brazil
 
 ---
 
-### About Me 🚀
-Brazilian backend developer specialized in building scalable and production-ready systems using JavaScript and TypeScript.
+## About
 
-I design REST APIs, real-time architectures, and cloud-based applications with a strong focus on clean architecture, performance, and security.
+I build and operate production software end to end: data model, cloud
+infrastructure, API and interface.
 
-- 🌍 Location: Brazil  
-- 💻 Role: Backend Developer  
-- 📫 Email: charles_182@icloud.com  
-- 🔗 LinkedIn: linkedin.com/in/charlesmachado  
-- 🔗 Portfolio: CharlesDev32.github.io  
+My main work is a **B2B SaaS platform for industrial construction companies** that
+integrates ERP APIs, consolidates operational data and surfaces it through a
+Next.js application and LLM-powered agents. I am responsible for its architecture,
+its Terraform-provisioned AWS infrastructure, its CI/CD pipelines and its
+production operation.
 
----
+I also build and publish **Firmo90**, a habit-recovery app on the App Store and
+Google Play — React Native and TypeScript on the client, Node.js and AWS behind it.
 
-## Tech Stack ⚙️
+## Stack
 
-### Backend (JavaScript / TypeScript)
+**Languages** — TypeScript, JavaScript, SQL, Ruby
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+**Frontend** — Next.js (App Router), React, React Native, Tailwind CSS, Zustand,
+TanStack Query
 
-### Databases & Caching
+**Backend** — Node.js, NestJS, REST APIs, JWT + RBAC, PostgreSQL, Zod,
+Swagger/OpenAPI
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**Cloud & infrastructure** — AWS (EC2, ALB, RDS, S3, ECR, SQS, Secrets Manager,
+KMS, CloudWatch, SSM, Route 53, VPC/IAM), Terraform, Docker, Cloudflare Workers & KV
 
-### Infrastructure & DevOps
+**AI** — Anthropic API, OpenAI API, LLM agent orchestration
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**Practice** — CI/CD, per-PR preview environments, database migrations,
+observability, incident response
 
----
+## Selected work
 
-## Technical Focus 🧠
+- **[Engineering case study](https://github.com/CharlesDev32/saas-platform-case-study)** — architecture, AWS topology and operational decisions behind the platform above, incidents included
+- **[Sabor Express](https://github.com/CharlesDev32/Pizzaria-ecommerce)** — full-stack delivery platform: NestJS API, Next.js storefront and admin panel in a pnpm monorepo
+- **[Dental clinic landing page](https://github.com/CharlesDev32/landing-page-odonto)** — responsive vanilla HTML/CSS/JS site built to WCAG AA
 
-- Scalable REST API development  
-- Strong typing with TypeScript  
-- Real-time communication (WebSockets)  
-- PostgreSQL data modeling  
-- Redis caching and rate limiting  
-- Dockerized environments  
-- Cloud deployment (AWS EC2)  
-- CI/CD automation  
+## Contact
 
----
+- GitHub — [@CharlesDev32](https://github.com/CharlesDev32)
+- LinkedIn — [charlesmachado](https://www.linkedin.com/in/charlesmachado)
+- Email — charles_182@icloud.com
 
-## Core Strengths
-
-- JavaScript / TypeScript architecture  
-- Clean and modular backend design  
-- Production deployment experience  
-- Real-time system implementation  
-- Performance and scalability mindset  
-
----
-
-*Building scalable backend systems with performance and reliability in mind.*
+Open to full-stack developer positions, CLT or PJ, on-site in Manaus or remote.
